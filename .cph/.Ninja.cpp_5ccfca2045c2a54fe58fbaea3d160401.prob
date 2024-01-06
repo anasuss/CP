@@ -1,0 +1,1 @@
+{"name":"Local: Ninja","url":"c:\\Users\\anasz\\OneDrive\\Bureau\\CP\\Ninja.cpp","tests":[{"id":1687207391881,"input":"2\n6\nn ni nin ninj ninja ninga \n2\nab bc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\anasz\\OneDrive\\Bureau\\CP\\Ninja.cpp","group":"local","local":true}
